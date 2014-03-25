@@ -14,14 +14,7 @@
 
     </head>
     <body background="/imag/bg.jpg" Bgproperties="fixed">
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
+		
 		<!-- Duoshuo Comment BEGIN -->
 			<div class="ds-thread"></div>
 		<script type="text/javascript">
@@ -37,11 +30,20 @@
 			</script>
 		<!-- Duoshuo Comment END -->
 
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <a class="extra" href="/">home</a>
+          </div>
+
+          {{ content }}
+
           <div class="footer">
             <div class="contact">
               <p>
-                yada<br />
-                adixod@gmail.com
+                Your Name<br />
+                What You Are<br />
+                you@example.com
               </p>
             </div>
             <div class="contact">

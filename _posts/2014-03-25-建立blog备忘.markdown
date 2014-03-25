@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "建立blog备忘"
+date:   2014-03-25 17:16:58
+---
+
+[git](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+[jekyll](http://jekyllrb.com/)
+
+[markdown](http://www.mceiba.com/develop/markdown-syntax.html)
+
+[liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+
